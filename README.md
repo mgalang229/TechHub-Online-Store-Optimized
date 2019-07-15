@@ -1,3 +1,3 @@
-# TechHub Online Store
-This website contains an online shopping store for gadgets. More importantly, this is based from a youtube video that I have
-watched for a Javascript Project.
+# TechHub Online Store OPTIMIZED
+This version has lesser image cached on the website. It has been specifically optimized 
+to increate website load speed.
